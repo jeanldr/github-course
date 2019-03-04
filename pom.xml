@@ -38,6 +38,10 @@
         </plugins>
     </build>
 
-    <scm><developerConnection>scm:git:git@github.com:jeanldr/spring-boot.git</developerConnection></scm>
+    <scm>
+        <developerConnection>scm:git:git@github.com:jeanldr/spring-boot.git</developerConnection>
+        <connection>git@github.com:jeanldr/spring-boot.git</connection>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
