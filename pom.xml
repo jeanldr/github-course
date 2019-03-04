@@ -40,7 +40,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:jeanldr/github-course.git</developerConnection>
-      <tag>HEAD</tag>
   </scm>
 
 </project>
