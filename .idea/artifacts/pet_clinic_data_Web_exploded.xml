@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pet-clinic-data:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/pet_clinic_data_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pet-clinic-data/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pet-clinic-data" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
